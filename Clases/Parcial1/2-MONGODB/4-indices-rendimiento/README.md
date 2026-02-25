@@ -7,7 +7,7 @@
 5. [Ordenamiento.](5-ordenamiento.md)
 6. [Uso de Explain().](6-uso-explain.md)
 7. [En embeddings.](7-embedings.md)
-8. [en Arrays.](8-arrays.md)
+8. [En Arrays.](8-arrays.md)
 9. [Únicos y Parciales.](9-unicos-parciales.md)
 10. [Coste.](10-coste.md)
 11. [Antipatrones.](11-antipatrones.md)
